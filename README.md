@@ -7,18 +7,30 @@ poetry install
 
 ## Запуск
 
-### Задача 1 — Аналіз частоти використання слів у тексті за допомогою парадигми MapReduce
+### Задача 1 — Порівняння рандомізованого та детермінованого QuickSort
 
 ```bash
-python main.py
+python main1.py
+```
+### Задача 2 — Складання розкладу занять за допомогою жадібного алгоритму
+
+```bash
+python main2.py
 ```
 
 ### Запуск тестів
 
 ```bash
-python test.py
+python tests.py
 ```
 
-## Результат
+### Результат
 
-![alt text](image.png)
+## Задача 1:
+
+![alt text](task1.png)
+
+## Задача 2:
+
+![alt text](task2.png)
+

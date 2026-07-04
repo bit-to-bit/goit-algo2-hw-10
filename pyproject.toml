@@ -1,7 +1,7 @@
 [project]
-name = "goit-algo2-hw-06"
+name = "goit-algo2-hw-10"
 version = "0.1.0"
-description = "MapReduce model"
+description = "Algorithmic complexity, approximate and randomized algorithms"
 authors = [
     {name = "bit-to-bit",email = "vasiliy.pykhteev@gmail.com"}
 ]
